@@ -16,7 +16,7 @@ import animationData2 from "../../animation/waiting.json"
 import Lottie from "react-lottie"
 
 
-const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "https://chit-chat-backend-4cal.onrender.com";
 
 var socket, selectedChatCompare;
 
